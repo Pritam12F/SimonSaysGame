@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    margin: 1rem;
+    border-radius: 20%;
+}
+.outer{
+    display: flex;
+    justify-content: center;
+}
+.three{
+    background-color: #63aac0;
+}
+.one{
+    background-color: #d95980;
+}
+.two{
+    background-color: #f99b45;
+}
+.four{
+    background-color: #819ff9;
+}
+.flash{
+    background-color: white;
+}
